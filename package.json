@@ -1,6 +1,6 @@
 {
   "name": "api-scaffold-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All Starter files you will need saving you time.",
   "main": "server.js",
   "scripts": {
@@ -24,5 +24,9 @@
   },
   "devDependencies": {
     "jest": "^26.6.3"
-  }
+  },
+  "files": [
+    "src",
+    "tests"
+  ]
 }
