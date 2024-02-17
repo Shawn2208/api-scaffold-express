@@ -1,6 +1,6 @@
 {
   "name": "api-scaffold-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "All Starter files you will need saving you time.",
   "main": "server.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "type": "git",
     "url": "https://github.com/Shawn2208/api-scaffold-express.git"
   },
-  "keywords": ["express", "api", "boilerplate"],
+  "keywords": [
+    "express",
+    "api",
+    "boilerplate"
+  ],
   "author": "shawndev.me",
   "license": "ISC",
   "dependencies": {
