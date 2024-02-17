@@ -4,6 +4,10 @@ This project is a simple API built with Node.js and Express.
 
 ## Getting Started
 
+To install by npm 
+
+npm install api-scaffold-express
+
 To get started, clone this repository and install the dependencies:
 
 
